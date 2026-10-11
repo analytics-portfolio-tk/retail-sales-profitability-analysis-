@@ -1,0 +1,13 @@
+Excel Analysis
+
+Microsoft Excel was used for preliminary data exploration and business analysis, including:
+
+1. Creating pivot tables to compare sales and profit across regions and product categories.
+
+2. Calculating and comparing profit margins to identify differences in regional performance.
+
+3. Examining category-level profitability across Furniture, Office Supplies, and Technology.
+
+4. Exploring sales and profit patterns to identify areas requiring further investigation.
+
+The Excel analysis supported the SQL investigation and helped inform the visual reporting developed in Power BI.
