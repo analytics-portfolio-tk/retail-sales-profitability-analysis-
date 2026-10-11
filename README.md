@@ -18,7 +18,7 @@ This project analyses retail sales data to identify profitability drivers, regio
 - **Key fields:** Region, Category, Sub-Category, Sales, Quantity, Discount, and Profit.
 
 ## Tools Used
-- **SQL (SQLite):** Data analysis, aggregation, conditional logic, and profitability calculations.
+- **SQL :** Data analysis, aggregation, conditional logic, and profitability calculations.
 - **Microsoft Excel:** Data exploration and preliminary analysis.
 - **Microsoft Power BI:** Interactive dashboard and visual reporting.
 
